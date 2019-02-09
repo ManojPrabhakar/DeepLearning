@@ -1,1 +1,1 @@
-# DeepLearning Assignment
+# DeepLearning for Visual Recognition - Project
